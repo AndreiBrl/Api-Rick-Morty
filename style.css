@@ -290,7 +290,7 @@ p {
 
 @media (max-width: 800px) {
   html {
-
+    width: 100%;
     background-size: 400vw 400vw;
     overflow: visible;
     background-position: 90%;

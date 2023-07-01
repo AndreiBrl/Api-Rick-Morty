@@ -291,7 +291,7 @@ p {
 @media (max-width: 800px) {
   html {
 
-    background-size: 400vw;
+    background-size: 400vw 400vw;
     overflow: visible;
     background-position: 90%;
     background-attachment: fixed;

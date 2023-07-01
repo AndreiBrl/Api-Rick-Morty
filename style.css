@@ -36,7 +36,7 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  overflow: hidden;
+  
 }
 
 h2 {
@@ -290,7 +290,7 @@ p {
   html {
 
     background-size: 400vw;
-    overflow: visible;
+    overflow: hidden;
     background-position: 90%;
 
   }
@@ -414,7 +414,7 @@ p {
   html {
 
     background-size: 700%;
-    overflow: visible;
+    overflow: hidden;
     background-position: 90%;
 
   }

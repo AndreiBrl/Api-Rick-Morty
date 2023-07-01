@@ -294,6 +294,7 @@ p {
     background-size: 400vw;
     overflow: visible;
     background-position: 90%;
+    background-attachment: fixed;
 
   }
 

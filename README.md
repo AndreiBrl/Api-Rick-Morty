@@ -1,4 +1,4 @@
-Este projeto foi criado dentro do curso de Análise e Desenvolvimento de Sistemas em parceria com meu colega [Username](https://github.com/PauloBosco).
+Este projeto foi criado dentro do curso de Análise e Desenvolvimento de Sistemas em parceria com meu colega [Paulo Bosco](https://github.com/PauloBosco).
 
 Também pode ser acessado pelo celular no link https://rick-morty-ads.netlify.app
 
